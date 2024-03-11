@@ -27,10 +27,10 @@
 
 | RSS 订阅数                                                                                      | 简介                         | 链接                                    | 标签                                             |
 | -------------------------------------------------------------------------------------------- | -------------------------- | ------------------------------------- | ---------------------------------------------- |
-| [![](https://badgen.net/badge/icon/**?icon=rss&label)](https://whyes.org/feed.xml)           | whyes的博客                   | https://whyes.org                     | 医学; 科研; 临床研究; 硬件                               |
-| [![](https://badgen.net/badge/icon/**?icon=rss&label)](http://yibie.github.io/index.xml)     | 学无止境@一点一滴                  | http://gtdstudy.com/                  | 阅读; 思考                                         |
-| [![](https://badgen.net/badge/icon/**?icon=rss&label)](https://springwood.me/feed/)          | 沉舟侧畔 Blog                  | https://springwood.me                 | 技术; 生活; 日剧                                     |
+| [![](https://badgen.net/badge/icon/***?icon=rss&label)](https://www.qtmuniao.com/atom.xml)   | 木鸟杂记                       | https://www.qtmuniao.com              | 分布式系统; 存储; boltdb; 源码阅读                        |
 | [![](https://badgen.net/badge/icon/**?icon=rss&label)](https://eallion.com/atom.xml)         | 大大的小蜗牛                     | https://eallion.com/                  | 生活; 电商                                         |
+| [![](https://badgen.net/badge/icon/**?icon=rss&label)](https://whyes.org/feed.xml)           | whyes的博客                   | https://whyes.org                     | 医学; 科研; 临床研究; 硬件                               |
+| [![](https://badgen.net/badge/icon/**?icon=rss&label)](https://springwood.me/feed/)          | 沉舟侧畔 Blog                  | https://springwood.me                 | 技术; 生活; 日剧                                     |
 | [![](https://badgen.net/badge/icon/**?icon=rss&label)](https://baiyun.me/feed)               | BAI YUN                    | https://baiyun.me/                    | 技术; 分享                                         |
 | [![](https://badgen.net/badge/icon/**?icon=rss&label)](https://blog.baoshuo.ren/atom.xml)    | 宝硕博客                       | https://blog.baoshuo.ren              | 技术; 编程; 生活; 前端; 后端; 分享; 笔记                     |
 | [![](https://badgen.net/badge/icon/**?icon=rss&label)](https://www.imaegoo.com/atom.xml)     | iMaeGoo's Blog             | https://www.imaegoo.com               | 编程; 前端; Serverless                             |
@@ -709,11 +709,11 @@
 |                                                                                              | 涛叔                         | https://taoshu.in/                    | 技术; 学习; 思考                                     |
 |                                                                                              | PHOTUP 呈像                  | https://photup.art                    | 摄影; 学习; 思考; 分享                                 |
 |                                                                                              | czp's blog                 | https://www.hiczp.com                 | 编程; 网络                                         |
+|                                                                                              | 学无止境@一点一滴                  | http://gtdstudy.com/                  | 阅读; 思考                                         |
 |                                                                                              | EdNovas的小站                 | https://ednovas.xyz                   | 编程; 算法; Linux; 科学上网                            |
 |                                                                                              | wentao's blog              | https://wentao.org                    | 编程; 阅读; 思考                                     |
 |                                                                                              | 贾跃华                        | https://www.jiayuehua.com             | 编程; C++，Linux，多彩人生                             |
 |                                                                                              | 算法进阶                       | https://github.com/aialgorithm/Blog   | 机器学习; 算法                                       |
-|                                                                                              | 木鸟杂记                       | https://www.qtmuniao.com              | 分布式系统; 存储; boltdb; 源码阅读                        |
 |                                                                                              | gyro永不抽风！                  | https://gyrojeff.top                  | 技术; 编程; 思考                                     |
 |                                                                                              | DrPika's Blog              | https://blog.drpika.com               | 医学; 随笔; 生活; 思考; 政治                             |
 |                                                                                              | 低调小熊猫                      | https://ilovey.live/                  | 技术; 编程; 分享                                     |
