@@ -27,6 +27,7 @@
 
 | RSS 订阅数                                                                                      | 简介                         | 链接                                    | 标签                                             |
 | -------------------------------------------------------------------------------------------- | -------------------------- | ------------------------------------- | ---------------------------------------------- |
+| [![](https://badgen.net/badge/icon/***?icon=rss&label)](https://www.qtmuniao.com/atom.xml)   | 木鸟杂记                       | https://www.qtmuniao.com              | 分布式系统; 存储; boltdb; 源码阅读                        |
 | [![](https://badgen.net/badge/icon/**?icon=rss&label)](https://eallion.com/atom.xml)         | 大大的小蜗牛                     | https://eallion.com/                  | 生活; 电商                                         |
 | [![](https://badgen.net/badge/icon/**?icon=rss&label)](https://springwood.me/feed/)          | 沉舟侧畔 Blog                  | https://springwood.me                 | 技术; 生活; 日剧                                     |
 | [![](https://badgen.net/badge/icon/**?icon=rss&label)](http://yibie.github.io/index.xml)     | 学无止境@一点一滴                  | http://gtdstudy.com/                  | 阅读; 思考                                         |
@@ -37,7 +38,7 @@
 | [![](https://badgen.net/badge/icon/**?icon=rss&label)](https://iamgodot.com/posts/index.xml) | Godot's Blog               | https://iamgodot.com                  | 编程; 思考; 旅行                                     |
 | [![](https://badgen.net/badge/icon/**?icon=rss&label)](https://zinglix.xyz/feed.xml)         | ZingLix Blog               | https://zinglix.xyz                   | 编程; 技术                                         |
 | [![](https://badgen.net/badge/icon/**?icon=rss&label)](https://gyrojeff.top/index.php/feed)  | gyro永不抽风！                  | https://gyrojeff.top                  | 技术; 编程; 思考                                     |
-| [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://xdym11235.com/feed)            | 玉明BLOG                     | https://xdym11235.com                 | 信息安全                                           |
+| [![](https://badgen.net/badge/icon/*?icon=rss&label)](https://wentao.org/index.xml)          | wentao's blog              | https://wentao.org                    | 编程; 阅读; 思考                                     |
 |                                                                                              | 透明创业实验                     | https://blog.t9t.io                   | 创业; 编程; 开源                                     |
 |                                                                                              | 阮一峰的网络日志                   | https://www.ruanyifeng.com/blog/      | 创业; 编程; 前端                                     |
 |                                                                                              | 酷 壳 – CoolShell            | https://coolshell.cn                  | 编程                                             |
@@ -710,10 +711,9 @@
 |                                                                                              | 涛叔                         | https://taoshu.in/                    | 技术; 学习; 思考                                     |
 |                                                                                              | PHOTUP 呈像                  | https://photup.art                    | 摄影; 学习; 思考; 分享                                 |
 |                                                                                              | czp's blog                 | https://www.hiczp.com                 | 编程; 网络                                         |
-|                                                                                              | wentao's blog              | https://wentao.org                    | 编程; 阅读; 思考                                     |
 |                                                                                              | 贾跃华                        | https://www.jiayuehua.com             | 编程; C++，Linux，多彩人生                             |
 |                                                                                              | 算法进阶                       | https://github.com/aialgorithm/Blog   | 机器学习; 算法                                       |
-|                                                                                              | 木鸟杂记                       | https://www.qtmuniao.com              | 分布式系统; 存储; boltdb; 源码阅读                        |
+|                                                                                              | 玉明BLOG                     | https://xdym11235.com                 | 信息安全                                           |
 |                                                                                              | DrPika's Blog              | https://blog.drpika.com               | 医学; 随笔; 生活; 思考; 政治                             |
 |                                                                                              | whyes的博客                   | https://whyes.org                     | 医学; 科研; 临床研究; 硬件                               |
 |                                                                                              | 低调小熊猫                      | https://ilovey.live/                  | 技术; 编程; 分享                                     |
